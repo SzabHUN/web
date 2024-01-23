@@ -1,0 +1,30 @@
+# Rendszerspecifikáció
+
+A követelményspecifikációban megfogalmazott feladatok elkészítés több ütemben készül el.
+Az ütemterv első része az alábbiakat tartalmazza.
+
+##Általános / felületi követelmények
+
+Internet eléréssel rendelkező, webfelülettel interakcióba lépésre képes eszköz.
+(windows, mac, mobil, konzol, okos óra, stb)
+
+##Funkcionális követelmények
+- négy alapművelet elvégzése
+  - összeadás
+  - kivonás
+  - szorzás
+  - osztás
+- több művelet elvégzése egyszerre (pl.: 4+3-2*1 )
+- utolsó törlési funkció
+  - utolsó írt elem
+  - összes szöveg
+- egymást követően legfeljebb egy darab operatív szimbólum (+ - * /) írási lehetősége
+
+
+#Megrendelői igényspecifikáció
+##Megrendelői igény és kifejtés
+- Szükség van egy könnyen elérhető és használható számológépre webfelületen
+##Megrendelői cél
+1. Egy egyszerű és könnyen átlátható kezelőfelület.
+2. Elérhetőség könnyűsége
+3. Hibalehetőségek kiküszöbölése
