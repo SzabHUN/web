@@ -1,4 +1,4 @@
-var ot = document.getElementById("Output");
+        var ot = document.getElementById("Output");
         var eq = document.getElementById("eaq");
         var text = "";
 
