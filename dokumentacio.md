@@ -8,7 +8,7 @@ Az ütemterv első része az alábbiakat tartalmazza.
 Internet eléréssel rendelkező, webfelülettel interakcióba lépésre képes eszköz.
 (windows, mac, mobil, konzol, okos óra, stb)
 
-##Funkcionális követelmények
+##Funkcionális alapkövetelmények
 - négy alapművelet elvégzése
   - összeadás
   - kivonás
